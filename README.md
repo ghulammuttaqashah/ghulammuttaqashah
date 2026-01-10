@@ -21,7 +21,7 @@ I'm a dedicated **MERN Stack Developer** passionate about building robust, scala
 - 🌱 I'm continuously learning **advanced React patterns, microservices, and cloud deployment**
 - 👯 I'm looking to collaborate on **open-source projects and innovative web applications**
 - 💬 Ask me about **MERN stack, RESTful APIs, JWT authentication, and responsive design**
-- 📫 How to reach me: **ghulammuttaqashah@example.com**
+- 📫 How to reach me: **ghulammuttaqashah@gmail.com**
 - ⚡ Fun fact: I love building applications that solve real-world problems!
 
 ---
@@ -184,7 +184,7 @@ MovieMate is a full-stack MERN application that lets users search movies from TM
   <a href="https://linkedin.com/in/ghulam-muttaqa-shah" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:ghulammuttaqashah@example.com" target="_blank">
+  <a href="mailto:ghulammuttaqashah@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
