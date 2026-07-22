@@ -72,35 +72,6 @@ I'm a dedicated **Full-Stack MERN Developer** passionate about building robust, 
 
 ## 🎯 Featured Projects
 
-### 🏪 [Cafe Management System](https://github.com/ghulammuttaqashah/cafe-management)
-
-<p align="center">
-  <a href="https://github.com/ghulammuttaqashah/cafe-management" target="_blank">
-    <img src="https://img.shields.io/badge/Repository-View_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repository" />
-  </a>
-</p>
-
-**A comprehensive full-stack cafe management solution for inventory, orders, and sales tracking!**
-
-A complete business application designed to streamline cafe operations with an intuitive interface for managing menu items, orders, inventory, and generating sales reports.
-
-#### ✨ Key Features:
-- 📦 **Inventory Management**: Real-time stock tracking with low-stock alerts
-- 🛒 **Order Processing**: Complete order management with order history
-- 💰 **Sales Dashboard**: Comprehensive sales analytics and revenue tracking
-- 👥 **User Roles**: Role-based access control (Admin, Manager, Staff)
-- 🔐 **Secure Authentication**: User login with session management
-- 📊 **Reports & Analytics**: Generate detailed sales and inventory reports
-- 🎨 **Responsive Design**: Works seamlessly on desktop and mobile devices
-
-#### 🛠️ Tech Stack:
-`React` • `Node.js` • `Express.js` • `MySQL` • `SQL` • `JWT` • `Tailwind CSS` • `RESTful API`
-
-#### 📌 Topics:
-![Business Management](https://img.shields.io/badge/Business-Management-orange) ![MySQL](https://img.shields.io/badge/MySQL-Database-blue) ![Dashboard](https://img.shields.io/badge/Analytics-Dashboard-green)
-
----
-
 ### 🌍 [Travel Companion](https://github.com/ghulammuttaqashah/Travel-Companion)
 
 <p align="center">
