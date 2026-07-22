@@ -178,7 +178,7 @@ MovieMate is an interactive full-stack MERN application that lets users search m
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ghulammuttaqashah&theme=radical&hide_border=true&background=0d1117" alt="GitHub Streak" width="100%" />
+  <img src="https://streak-stats.demolab.com?user=ghulammuttaqashah&theme=radical&hide_border=true&background=0d1117" alt="GitHub Streak" width="100%" />
 </div>
 
 ---
