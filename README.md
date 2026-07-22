@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+there+👋,+I'm+Ghulam+Muttaqa+Shah;A+Passionate+MERN+Stack+Developer" alt="Typing SVG" />
 </h1>
 
-<h3 align="center">🚀 Full-Stack Developer | MERN Specialist | Database Architect from Pakistan 🇵🇰</h3>
+<h3 align="center">🚀 Full-Stack MERN Developer | API & UI Enthusiast from Pakistan 🇵🇰</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ghulammuttaqashah&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views" />
@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/api/?username=ghulammuttaqashah&theme=radical&row=1&column=7&margin-w=15&margin-h=15&no-frame=true" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/api?username=ghulammuttaqashah&theme=onedark&column=4&margin-w=12&margin-h=12&no-frame=true&no-bg=true" alt="GitHub Trophies" />
   </a>
 </p>
 
@@ -185,7 +185,13 @@ MovieMate is an interactive full-stack MERN application that lets users search m
 
 ## 🐍 Contribution Snake
 
-![Snake animation](https://raw.githubusercontent.com/ghulammuttaqashah/ghulammuttaqashah/output/github-contribution-grid-snake.svg)
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ghulammuttaqashah/ghulammuttaqashah/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ghulammuttaqashah/ghulammuttaqashah/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/ghulammuttaqashah/ghulammuttaqashah/output/github-contribution-grid-snake.svg" width="100%" />
+  </picture>
+</div>
 
 ---
 
