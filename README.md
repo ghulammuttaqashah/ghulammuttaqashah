@@ -1,34 +1,39 @@
-<h1 align="center">Hi there 👋, I'm Ghulam Muttaqa Shah</h1>
-<h3 align="center">A Passionate MERN Stack Developer from Pakistan 🇵🇰</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+there+👋,+I'm+Ghulam+Muttaqa+Shah;A+Passionate+MERN+Stack+Developer" alt="Typing SVG" />
+</h1>
+
+<h3 align="center">🚀 Full-Stack Developer | MERN Specialist | Database Architect from Pakistan 🇵🇰</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ghulammuttaqashah&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=ghulammuttaqashah&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views" />
+  <img src="https://img.shields.io/badge/Focus-Full_Stack_Development-brightgreen?style=flat-square" alt="Focus" />
+  <img src="https://img.shields.io/badge/Code-JavaScript_%7C_React_%7C_Node-blue?style=flat-square" alt="Languages" />
 </p>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/api/?username=ghulammuttaqashah&theme=radical&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/api/?username=ghulammuttaqashah&theme=radical&row=1&column=7&margin-w=15&margin-h=15&no-frame=true" alt="GitHub Trophies" />
   </a>
 </p>
 
 ---
 
-## 🚀 About Me
+## 🌟 About Me
 
-I'm a dedicated **MERN Stack Developer** passionate about building robust, scalable, and user-friendly web applications. I specialize in creating full-stack solutions using MongoDB, Express.js, React.js, and Node.js.
+I'm a dedicated **Full-Stack MERN Developer** passionate about building robust, scalable, and user-friendly web applications that solve real-world problems. I specialize in creating comprehensive full-stack solutions using MongoDB, Express.js, React, and Node.js, with expertise in relational databases (SQL & MySQL).
 
-- 🔭 I'm currently working on **full-stack MERN applications** with modern authentication and API integrations
-- 🌱 I'm continuously learning **advanced React patterns, microservices, and cloud deployment**
-- 👯 I'm looking to collaborate on **open-source projects and innovative web applications**
-- 💬 Ask me about **MERN stack, RESTful APIs, JWT authentication, and responsive design**
-- 📫 How to reach me: **ghulammuttaqashah@gmail.com**
-- ⚡ Fun fact: I love building applications that solve real-world problems!
+- 🔭 **Currently Working On**: Full-stack MERN applications with modern authentication, real-time features, and database optimization
+- 🌱 **Learning**: Advanced React patterns, microservices architecture, cloud deployment, and system design
+- 👯 **Open To**: Collaborating on open-source projects, innovative web applications, and mentoring
+- 💬 **Ask Me About**: MERN stack, RESTful APIs, JWT authentication, responsive design, SQL optimization, database design
+- 📫 **Reach Me**: [ghulammuttaqashah@gmail.com](mailto:ghulammuttaqashah@gmail.com)
+- ⚡ **Fun Fact**: I love building applications that transform ideas into impactful solutions!
 
 ---
 
 ## 🛠️ Tech Stack
 
-### **Frontend**
+### **Frontend Development**
 <p align="left">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -37,17 +42,20 @@ I'm a dedicated **MERN Stack Developer** passionate about building robust, scala
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
 </p>
 
-### **Backend**
+### **Backend Development**
 <p align="left">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" alt="JWT" />
+  <img src="https://img.shields.io/badge/RESTful_APIs-007acc?style=for-the-badge&logo=api&logoColor=white" alt="RESTful APIs" />
 </p>
 
-### **Database**
+### **Database Management**
 <p align="left">
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" alt="Mongoose" />
+  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 </p>
 
 ### **Tools & Technologies**
@@ -57,11 +65,41 @@ I'm a dedicated **MERN Stack Developer** passionate about building robust, scala
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" />
 </p>
 
 ---
 
-## 🌟 Featured Projects
+## 🎯 Featured Projects
+
+### 🏪 [Cafe Management System](https://github.com/ghulammuttaqashah/cafe-management)
+
+<p align="center">
+  <a href="https://github.com/ghulammuttaqashah/cafe-management" target="_blank">
+    <img src="https://img.shields.io/badge/Repository-View_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repository" />
+  </a>
+</p>
+
+**A comprehensive full-stack cafe management solution for inventory, orders, and sales tracking!**
+
+A complete business application designed to streamline cafe operations with an intuitive interface for managing menu items, orders, inventory, and generating sales reports.
+
+#### ✨ Key Features:
+- 📦 **Inventory Management**: Real-time stock tracking with low-stock alerts
+- 🛒 **Order Processing**: Complete order management with order history
+- 💰 **Sales Dashboard**: Comprehensive sales analytics and revenue tracking
+- 👥 **User Roles**: Role-based access control (Admin, Manager, Staff)
+- 🔐 **Secure Authentication**: User login with session management
+- 📊 **Reports & Analytics**: Generate detailed sales and inventory reports
+- 🎨 **Responsive Design**: Works seamlessly on desktop and mobile devices
+
+#### 🛠️ Tech Stack:
+`React` • `Node.js` • `Express.js` • `MySQL` • `SQL` • `JWT` • `Tailwind CSS` • `RESTful API`
+
+#### 📌 Topics:
+![Business Management](https://img.shields.io/badge/Business-Management-orange) ![MySQL](https://img.shields.io/badge/MySQL-Database-blue) ![Dashboard](https://img.shields.io/badge/Analytics-Dashboard-green)
+
+---
 
 ### 🌍 [Travel Companion](https://github.com/ghulammuttaqashah/Travel-Companion)
 
@@ -74,9 +112,9 @@ I'm a dedicated **MERN Stack Developer** passionate about building robust, scala
   </a>
 </p>
 
-**A full-stack MERN web application that serves as your ultimate Travel Companion!**
+**Your ultimate travel companion - weather, currency, and expenses all in one place!**
 
-This comprehensive travel app offers features like real-time weather updates, currency conversion, and expense tracking with full CRUD operations. Built with secure user authentication using HTTP-only JWT cookies for safe session management.
+A full-stack MERN application that serves as your personal travel assistant with real-time weather updates, live currency conversion, and comprehensive expense tracking.
 
 #### ✨ Key Features:
 - 🔐 **Secure Authentication**: Register/Login with JWT and bcrypt password hashing
@@ -87,10 +125,10 @@ This comprehensive travel app offers features like real-time weather updates, cu
 - 📱 **Responsive Design**: Optimized for all devices with Tailwind CSS
 
 #### 🛠️ Tech Stack:
-`React` • `Node.js` • `Express.js` • `MongoDB` • `Mongoose` • `JWT` • `bcrypt` • `Axios` • `Tailwind CSS` • `RESTful API` • `OpenWeather API` • `ExchangeRate API`
+`React` • `Node.js` • `Express.js` • `MongoDB` • `Mongoose` • `JWT` • `bcrypt` • `Tailwind CSS` • `RESTful API` • `Third-party APIs`
 
 #### 📌 Topics:
-![MERN](https://img.shields.io/badge/MERN-Stack-brightgreen) ![API](https://img.shields.io/badge/RESTful-API-blue) ![CRUD](https://img.shields.io/badge/CRUD-Application-orange) ![Weather](https://img.shields.io/badge/Weather-App-yellow) ![Responsive](https://img.shields.io/badge/Responsive-Design-blueviolet)
+![MERN](https://img.shields.io/badge/MERN-Stack-brightgreen) ![API Integration](https://img.shields.io/badge/API-Integration-blue) ![Expense Tracking](https://img.shields.io/badge/CRUD-Application-orange)
 
 ---
 
@@ -105,9 +143,9 @@ This comprehensive travel app offers features like real-time weather updates, cu
   </a>
 </p>
 
-**Your Personal Movie Hub - Discover, share, and vote for movies you love!**
+**Your personal movie hub - discover, share, and vote for movies you love!**
 
-MovieMate is a full-stack MERN application that lets users search movies from TMDB, build their watchlist, participate in community voting, and engage in discussions through comments. Features both traditional authentication and Google OAuth integration.
+MovieMate is an interactive full-stack MERN application that lets users search movies from TMDB, build watchlists, participate in community voting, and engage in discussions.
 
 #### ✨ Key Features:
 - 🎥 **TMDB Integration**: Search and discover movies instantly from The Movie Database
@@ -116,85 +154,111 @@ MovieMate is a full-stack MERN application that lets users search movies from TM
 - 💬 **Discussion System**: Add, edit, and delete comments on movies
 - 📋 **User Dashboard**: Personal watchlist and activity tracking
 - 📱 **Progressive Web App**: Install and use as a native app (PWA support)
-- 🎨 **Modern UI**: Beautiful interface with Tailwind CSS
+- 🎨 **Modern UI**: Beautiful interface with smooth animations
 
 #### 🛠️ Tech Stack:
-`React` • `Node.js` • `Express.js` • `MongoDB` • `Mongoose` • `JWT` • `Google OAuth` • `TMDB API` • `Tailwind CSS` • `PWA` • `RESTful API`
+`React` • `Node.js` • `Express.js` • `MongoDB` • `Mongoose` • `JWT` • `Google OAuth` • `TMDB API` • `Tailwind CSS` • `PWA`
 
 #### 📌 Topics:
-![MERN](https://img.shields.io/badge/MERN-Stack-brightgreen) ![React](https://img.shields.io/badge/React-JS-blue) ![Node](https://img.shields.io/badge/Node-JS-green) ![MongoDB](https://img.shields.io/badge/Mongo-DB-brightgreen) ![PWA](https://img.shields.io/badge/PWA-Apps-purple)
+![MERN](https://img.shields.io/badge/MERN-Stack-brightgreen) ![OAuth](https://img.shields.io/badge/OAuth-Authentication-blue) ![Community](https://img.shields.io/badge/Community-Features-orange)
 
 ---
 
-## 💼 Skills Highlights
+## 💼 Professional Skills
 
 <table>
   <tr>
     <td align="center" width="33%">
       <h4>🎨 Frontend Development</h4>
-      <p>React.js, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS, Responsive Design, PWA</p>
+      <p><strong>React.js</strong>, <strong>JavaScript</strong> (ES6+), HTML5, CSS3, Tailwind CSS, Responsive Design, PWA, Component Architecture</p>
     </td>
     <td align="center" width="33%">
       <h4>⚙️ Backend Development</h4>
-      <p>Node.js, Express.js, RESTful APIs, Server-side Logic, API Integration</p>
+      <p><strong>Node.js</strong>, <strong>Express.js</strong>, <strong>RESTful APIs</strong>, Server-side Logic, Middleware, API Integration, Error Handling</p>
     </td>
     <td align="center" width="33%">
       <h4>🗄️ Database Management</h4>
-      <p>MongoDB, Mongoose, Database Design, CRUD Operations, Data Modeling</p>
+      <p><strong>MongoDB</strong>, <strong>Mongoose</strong>, <strong>MySQL</strong>, <strong>SQL</strong>, Database Design, CRUD Operations, Data Modeling, Query Optimization</p>
     </td>
   </tr>
   <tr>
     <td align="center" width="33%">
       <h4>🔒 Authentication & Security</h4>
-      <p>JWT, OAuth 2.0, bcrypt, HTTP-only Cookies, Session Management</p>
+      <p>JWT, OAuth 2.0, bcrypt, HTTP-only Cookies, Session Management, Secure APIs, Password Hashing</p>
     </td>
     <td align="center" width="33%">
-      <h4>🔌 API Development</h4>
-      <p>RESTful APIs, Third-party API Integration, Error Handling, Middleware</p>
+      <h4>🔌 API Development & Integration</h4>
+      <p>RESTful API Design, Third-party API Integration, TMDB API, OpenWeather API, Error Handling, Rate Limiting</p>
     </td>
     <td align="center" width="33%">
       <h4>🛠️ Tools & Workflow</h4>
-      <p>Git, GitHub, VS Code, Postman, npm, Vercel, Agile Development</p>
+      <p>Git, GitHub, VS Code, Postman, npm, Vercel Deployment, Agile Development, CI/CD Concepts</p>
     </td>
   </tr>
 </table>
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ghulammuttaqashah&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghulammuttaqashah&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="165" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ghulammuttaqashah&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0d1117" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghulammuttaqashah&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" alt="Top Languages" height="180" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ghulammuttaqashah&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ghulammuttaqashah&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
-</p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ghulammuttaqashah&theme=radical&hide_border=true&background=0d1117" alt="GitHub Streak" width="100%" />
+</div>
 
 ---
 
-## 🤝 Connect With Me
+## 🐍 Contribution Snake
 
-<p align="center">
+![Snake animation](https://raw.githubusercontent.com/ghulammuttaqashah/ghulammuttaqashah/output/github-contribution-grid-snake.svg)
+
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ghulammuttaqashah&theme=react-dark&hide_border=true&area=true&bg_color=0d1117" alt="Contribution Graph" width="100%" />
+</div>
+
+---
+
+## 🤝 Let's Connect!
+
+<div align="center">
   <a href="https://linkedin.com/in/ghulam-muttaqa-shah" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:ghulammuttaqashah@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-</p>
+  <a href="https://github.com/ghulammuttaqashah" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer" />
-</p>
+## ✨ Latest Highlights
 
-<p align="center">
-  <i>⭐️ From <a href="https://github.com/ghulammuttaqashah">ghulammuttaqashah</a> - Let's build something amazing together!</i>
-</p>
+- 🎓 Full-stack developer with expertise in MERN stack and relational databases
+- 🏆 Experienced in building scalable applications with secure authentication
+- 🌐 Proficient in both NoSQL (MongoDB) and SQL/MySQL database systems
+- 🚀 Passionate about clean code, best practices, and continuous learning
+- 💡 Problem solver who loves turning ideas into functional, beautiful applications
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer" width="100%" />
+
+<div align="center">
+  <p>
+    <i>⭐️ If you like my work, please consider giving my repositories a star!</i>
+  </p>
+  <p>
+    <i>🚀 From <a href="https://github.com/ghulammuttaqashah">ghulammuttaqashah</a> - Let's build something amazing together!</i>
+  </p>
+</div>
