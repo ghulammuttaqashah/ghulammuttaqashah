@@ -20,12 +20,12 @@
 
 ## 🌟 About Me
 
-I'm a dedicated **Full-Stack MERN Developer** passionate about building robust, scalable, and user-friendly web applications that solve real-world problems. I specialize in creating comprehensive full-stack solutions using MongoDB, Express.js, React, and Node.js, with expertise in relational databases (SQL & MySQL).
+I'm a dedicated **Full-Stack MERN Developer** passionate about building robust, scalable, and user-friendly web applications that solve real-world problems. I specialize in creating comprehensive full-stack solutions using MongoDB, Express.js, React, and Node.js, with expertise in relational databases including PostgreSQL and MySQL.
 
 - 🔭 **Currently Working On**: Full-stack MERN applications with modern authentication, real-time features, and database optimization
 - 🌱 **Learning**: Advanced React patterns, microservices architecture, cloud deployment, and system design
 - 👯 **Open To**: Collaborating on open-source projects, innovative web applications, and mentoring
-- 💬 **Ask Me About**: MERN stack, RESTful APIs, JWT authentication, responsive design, SQL optimization, database design
+- 💬 **Ask Me About**: MERN stack, RESTful APIs, PostgreSQL, JWT authentication, responsive design, database architecture
 - 📫 **Reach Me**: [ghulammuttaqashah@gmail.com](mailto:ghulammuttaqashah@gmail.com)
 - ⚡ **Fun Fact**: I love building applications that transform ideas into impactful solutions!
 
@@ -54,8 +54,9 @@ I'm a dedicated **Full-Stack MERN Developer** passionate about building robust, 
 <p align="left">
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" alt="Mongoose" />
-  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
 </p>
 
 ### **Tools & Technologies**
@@ -149,7 +150,7 @@ MovieMate is an interactive full-stack MERN application that lets users search m
     </td>
     <td align="center" width="33%">
       <h4>🗄️ Database Management</h4>
-      <p><strong>MongoDB</strong>, <strong>Mongoose</strong>, <strong>MySQL</strong>, <strong>SQL</strong>, Database Design, CRUD Operations, Data Modeling, Query Optimization</p>
+      <p><strong>MongoDB</strong>, <strong>PostgreSQL</strong>, <strong>MySQL</strong>, Database Design, CRUD Operations, Data Modeling, Query Optimization</p>
     </td>
   </tr>
   <tr>
@@ -176,6 +177,8 @@ MovieMate is an interactive full-stack MERN application that lets users search m
   <img src="https://github-readme-stats.vercel.app/api?username=ghulammuttaqashah&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0d1117" alt="GitHub Stats" height="180" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghulammuttaqashah&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" alt="Top Languages" height="180" />
 </div>
+
+<br />
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=ghulammuttaqashah&theme=radical&hide_border=true&background=0d1117" alt="GitHub Streak" width="100%" />
@@ -223,7 +226,7 @@ MovieMate is an interactive full-stack MERN application that lets users search m
 
 - 🎓 Full-stack developer with expertise in MERN stack and relational databases
 - 🏆 Experienced in building scalable applications with secure authentication
-- 🌐 Proficient in both NoSQL (MongoDB) and SQL/MySQL database systems
+- 🌐 Proficient in both NoSQL (MongoDB) and SQL (PostgreSQL, MySQL) database systems
 - 🚀 Passionate about clean code, best practices, and continuous learning
 - 💡 Problem solver who loves turning ideas into functional, beautiful applications
 
