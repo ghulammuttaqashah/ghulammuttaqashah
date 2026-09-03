@@ -11,9 +11,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ghulammuttaqashah&theme=onedark&column=4&margin-w=12&margin-h=12&no-frame=true&no-bg=true" alt="GitHub Trophies" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=ghulammuttaqashah&theme=onedark&column=4&margin-w=12&margin-h=12&no-frame=true&no-bg=true" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -23,7 +21,7 @@
 I'm a dedicated **Software Engineer** specializing in building full-stack web applications that solve real-world problems. My focus is on creating robust, scalable, and high-performance solutions using **React, Node.js, PostgreSQL, and MongoDB**, combined with modern **AI integrations** to deliver next-generation user experiences.
 
 - 🔭 **Currently Working On**: Full-stack web applications featuring modern authentication, real-time communication, and LLM AI integrations.
-- 🌱 **Learning**: Advanced system design, microservices architecture, cloud deployment (Docker), and progressive web apps (PWAs).
+- 🌱 **Learning**: Advanced system design, microservices architecture, cloud deployment, and progressive web apps (PWAs).
 - 👯 **Open To**: Remote & freelance work, open-source collaborations, and innovative tech projects.
 - 💬 **Ask Me About**: React, Node.js, PostgreSQL, MongoDB, RESTful APIs, and integrating AI models (Groq, Hugging Face).
 - 📫 **Reach Me**: [ghulammuttaqashah@gmail.com](mailto:ghulammuttaqashah@gmail.com)
@@ -62,7 +60,7 @@ I'm a dedicated **Software Engineer** specializing in building full-stack web ap
 ### **Tools & Technologies**
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
@@ -152,8 +150,8 @@ An interactive full-stack web app that lets users search movies from TMDB, build
       <p>JWT, OAuth 2.0, bcrypt, HTTP-only Cookies, Session Management</p>
     </td>
     <td align="center" width="33%">
-      <h4>🛠️ DevOps & Tools</h4>
-      <p>Git, Docker, VS Code, Postman, Vercel, CI/CD Concepts</p>
+      <h4>🛠️ Tools & Workflow</h4>
+      <p>Git, GitHub, VS Code, Postman, Vercel, npm, Agile Development</p>
     </td>
   </tr>
 </table>
@@ -175,13 +173,7 @@ An interactive full-stack web app that lets users search movies from TMDB, build
 
 ---
 
-## 📈 Activity Graph & Snake Animation
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ghulammuttaqashah&theme=radical&hide_border=true&area=true&bg_color=0d1117" alt="Contribution Graph" width="100%" />
-</div>
-
-<br />
+## 🐍 Contribution Graph
 
 <div align="center">
   <picture>
