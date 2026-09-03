@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+there+👋,+I'm+Ghulam+Muttaqa+Shah;A+Passionate+MERN+Stack+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Ghulam+Muttaqa+Shah;A+Passionate+MERN+Stack+Developer" alt="Typing SVG" />
 </h1>
 
 <h3 align="center">🚀 Full-Stack MERN Developer | API & UI Enthusiast from Pakistan 🇵🇰</h3>
@@ -20,12 +20,12 @@
 
 ## 🌟 About Me
 
-I'm a dedicated **Full-Stack MERN Developer** passionate about building robust, scalable, and user-friendly web applications that solve real-world problems. I specialize in creating comprehensive full-stack solutions using MongoDB, Express.js, React, and Node.js, with expertise in relational databases including PostgreSQL and MySQL.
+I'm a dedicated **Full-Stack MERN Developer** passionate about building robust, scalable, and user-friendly web applications that solve real-world problems. I specialize in creating comprehensive full-stack solutions using MongoDB, Express.js, React, and Node.js, with expertise in relational databases (SQL, MySQL & PostgreSQL).
 
 - 🔭 **Currently Working On**: Full-stack MERN applications with modern authentication, real-time features, and database optimization
 - 🌱 **Learning**: Advanced React patterns, microservices architecture, cloud deployment, and system design
 - 👯 **Open To**: Collaborating on open-source projects, innovative web applications, and mentoring
-- 💬 **Ask Me About**: MERN stack, RESTful APIs, PostgreSQL, JWT authentication, responsive design, database architecture
+- 💬 **Ask Me About**: MERN stack, RESTful APIs, JWT authentication, responsive design, SQL/PostgreSQL optimization, database design
 - 📫 **Reach Me**: [ghulammuttaqashah@gmail.com](mailto:ghulammuttaqashah@gmail.com)
 - ⚡ **Fun Fact**: I love building applications that transform ideas into impactful solutions!
 
@@ -46,24 +46,24 @@ I'm a dedicated **Full-Stack MERN Developer** passionate about building robust, 
 <p align="left">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" alt="JWT" />
-  <img src="https://img.shields.io/badge/RESTful_APIs-007acc?style=for-the-badge&logo=api&logoColor=white" alt="RESTful APIs" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT" />
+  <img src="https://img.shields.io/badge/RESTful_APIs-007ACC?style=for-the-badge&logo=fastapi&logoColor=white" alt="RESTful APIs" />
 </p>
 
 ### **Database Management**
 <p align="left">
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" alt="Mongoose" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL" />
   <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
 </p>
 
 ### **Tools & Technologies**
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
   <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" />
@@ -84,11 +84,11 @@ I'm a dedicated **Full-Stack MERN Developer** passionate about building robust, 
   </a>
 </p>
 
-**Your ultimate travel companion - weather, currency, and expenses all in one place!**
+**Your ultimate travel companion — weather, currency, and expenses all in one place!**
 
 A full-stack MERN application that serves as your personal travel assistant with real-time weather updates, live currency conversion, and comprehensive expense tracking.
 
-#### ✨ Key Features:
+#### ✨ Key Features
 - 🔐 **Secure Authentication**: Register/Login with JWT and bcrypt password hashing
 - 🌤️ **Weather Module**: Real-time weather updates using OpenWeather API
 - 💱 **Currency Converter**: Live exchange rates via ExchangeRate API
@@ -96,10 +96,10 @@ A full-stack MERN application that serves as your personal travel assistant with
 - 🛡️ **Protected Routes**: Cookie-based verification for secure access
 - 📱 **Responsive Design**: Optimized for all devices with Tailwind CSS
 
-#### 🛠️ Tech Stack:
+#### 🛠️ Tech Stack
 `React` • `Node.js` • `Express.js` • `MongoDB` • `Mongoose` • `JWT` • `bcrypt` • `Tailwind CSS` • `RESTful API` • `Third-party APIs`
 
-#### 📌 Topics:
+#### 📌 Topics
 ![MERN](https://img.shields.io/badge/MERN-Stack-brightgreen) ![API Integration](https://img.shields.io/badge/API-Integration-blue) ![Expense Tracking](https://img.shields.io/badge/CRUD-Application-orange)
 
 ---
@@ -115,11 +115,11 @@ A full-stack MERN application that serves as your personal travel assistant with
   </a>
 </p>
 
-**Your personal movie hub - discover, share, and vote for movies you love!**
+**Your personal movie hub — discover, share, and vote for movies you love!**
 
 MovieMate is an interactive full-stack MERN application that lets users search movies from TMDB, build watchlists, participate in community voting, and engage in discussions.
 
-#### ✨ Key Features:
+#### ✨ Key Features
 - 🎥 **TMDB Integration**: Search and discover movies instantly from The Movie Database
 - 🔐 **Dual Authentication**: Email/Password & Google OAuth login options
 - 👍 **Community Voting**: Upvote your favorite movies and see trending picks
@@ -128,10 +128,10 @@ MovieMate is an interactive full-stack MERN application that lets users search m
 - 📱 **Progressive Web App**: Install and use as a native app (PWA support)
 - 🎨 **Modern UI**: Beautiful interface with smooth animations
 
-#### 🛠️ Tech Stack:
+#### 🛠️ Tech Stack
 `React` • `Node.js` • `Express.js` • `MongoDB` • `Mongoose` • `JWT` • `Google OAuth` • `TMDB API` • `Tailwind CSS` • `PWA`
 
-#### 📌 Topics:
+#### 📌 Topics
 ![MERN](https://img.shields.io/badge/MERN-Stack-brightgreen) ![OAuth](https://img.shields.io/badge/OAuth-Authentication-blue) ![Community](https://img.shields.io/badge/Community-Features-orange)
 
 ---
@@ -150,7 +150,7 @@ MovieMate is an interactive full-stack MERN application that lets users search m
     </td>
     <td align="center" width="33%">
       <h4>🗄️ Database Management</h4>
-      <p><strong>MongoDB</strong>, <strong>PostgreSQL</strong>, <strong>MySQL</strong>, Database Design, CRUD Operations, Data Modeling, Query Optimization</p>
+      <p><strong>MongoDB</strong>, <strong>Mongoose</strong>, <strong>MySQL</strong>, <strong>PostgreSQL</strong>, <strong>SQL</strong>, Database Design, CRUD Operations, Data Modeling, Query Optimization</p>
     </td>
   </tr>
   <tr>
@@ -177,8 +177,6 @@ MovieMate is an interactive full-stack MERN application that lets users search m
   <img src="https://github-readme-stats.vercel.app/api?username=ghulammuttaqashah&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0d1117" alt="GitHub Stats" height="180" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghulammuttaqashah&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" alt="Top Languages" height="180" />
 </div>
-
-<br />
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=ghulammuttaqashah&theme=radical&hide_border=true&background=0d1117" alt="GitHub Streak" width="100%" />
@@ -216,7 +214,7 @@ MovieMate is an interactive full-stack MERN application that lets users search m
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/ghulammuttaqashah" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </div>
 
@@ -226,7 +224,7 @@ MovieMate is an interactive full-stack MERN application that lets users search m
 
 - 🎓 Full-stack developer with expertise in MERN stack and relational databases
 - 🏆 Experienced in building scalable applications with secure authentication
-- 🌐 Proficient in both NoSQL (MongoDB) and SQL (PostgreSQL, MySQL) database systems
+- 🌐 Proficient in both NoSQL (MongoDB) and SQL/MySQL/PostgreSQL database systems
 - 🚀 Passionate about clean code, best practices, and continuous learning
 - 💡 Problem solver who loves turning ideas into functional, beautiful applications
 
@@ -239,6 +237,6 @@ MovieMate is an interactive full-stack MERN application that lets users search m
     <i>⭐️ If you like my work, please consider giving my repositories a star!</i>
   </p>
   <p>
-    <i>🚀 From <a href="https://github.com/ghulammuttaqashah">ghulammuttaqashah</a> - Let's build something amazing together!</i>
+    <i>🚀 From <a href="https://github.com/ghulammuttaqashah">ghulammuttaqashah</a> — Let's build something amazing together!</i>
   </p>
 </div>
