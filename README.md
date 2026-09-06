@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+there+👋,+I'm+Ghulam+Muttaqa+Shah;Software+Engineer+&+Full-Stack+Developer;Building+Web+Apps+with+AI+Integrations" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Hi+there+👋,+I'm+Ghulam+Muttaqa+Shah;Software+Engineer+&+Full-Stack+Developer;Building+Web+Apps+with+AI+Integrations" alt="Typing SVG" />
 </h1>
 
 <h3 align="center">🚀 Software Engineer building full-stack web apps with React, Node.js & PostgreSQL/MongoDB — with AI integrations | Open to remote & freelance work 🇵🇰</h3>
@@ -64,6 +64,7 @@ I'm a dedicated **Software Engineer** specializing in building full-stack web ap
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/render-0000?style=for-the-badge&logo=render&logoColor=white" alt="Render" />
 </p>
 
 ---
