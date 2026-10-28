@@ -10,10 +10,6 @@
   <img src="https://img.shields.io/badge/Code-JavaScript_%7C_React_%7C_Node-blue?style=flat-square" alt="Languages" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ghulammuttaqashah&theme=onedark&column=4&margin-w=12&margin-h=12&no-frame=true&no-bg=true" alt="GitHub Trophies" />
-</p>
-
 ---
 
 ## 🌟 About Me
