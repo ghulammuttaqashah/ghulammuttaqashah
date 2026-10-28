@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Hi+there+👋,+I'm+Ghulam+Muttaqa+Shah;Software+Engineer+&+Full-Stack+Developer;Building+Web+Apps+with+AI+Integrations" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Hi+there+%F0%9F%91%8B,+I'm+Ghulam+Muttaqa+Shah;Software+Engineer+%26+Full-Stack+Developer;Building+Web+Apps+with+AI+Integrations" alt="Typing SVG" />
 </h1>
 
 <h3 align="center">🚀 Software Engineer building full-stack web apps with React, Node.js & PostgreSQL/MongoDB — with AI integrations | Open to remote & freelance work 🇵🇰</h3>
@@ -64,12 +64,63 @@ I'm a dedicated **Software Engineer** specializing in building full-stack web ap
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-  <img src="https://img.shields.io/badge/render-0000?style=for-the-badge&logo=render&logoColor=white" alt="Render" />
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" alt="Render" />
 </p>
 
 ---
 
 ## 🎯 Featured Projects
+
+### 🍲 Homely Meals — Final Year Project (FYP)
+
+**A centralized Progressive Web App connecting customers with verified home chefs for authentic home-cooked meals.**
+
+> 🎓 **Final Year Project (FYP Code: 22F-17)** — Bachelor of Science in Computer Science, Department of Computer Science, **Sukkur IBA University** (Batch F-2022, submitted May 2026). Built by a team of three under the supervision of Prof. Dr. Ghulam Mujtaba Shaikh and co-supervision of Dr. Muhammad Ismail Mangrio.
+
+Students and working professionals living away from home struggle to find reliable home-cooked food, while talented home chefs lack digital visibility. Homely Meals bridges this gap with a secure, role-based platform for **Customers**, **Cooks (Home Chefs)** and **Admins** that manages the whole lifecycle — verification, meal discovery, ordering, payment, tracking, feedback and complaints.
+
+#### ✨ Key Highlights:
+- 🤖 **Aspect-Based Sentiment Analysis (ABSA)**: Analyzes customer reviews by aspect (e.g. taste, portion size, delivery) and shows positive/negative insights per cook, with the option to explore each aspect in detail
+- 💬 **AI Chatbot**: Built-in assistant that guides users with common questions and acts as a help section
+- 🎯 **Smart Meal Recommender**: Suggests meals based on a customer's past orders and preferences
+- 📱 **Progressive Web App (PWA)**: Installable and responsive across desktop, tablet and mobile
+- 🔐 **Secure Access**: OTP-based registration, email verification, JWT authentication, bcrypt password hashing and role-based access control (RBAC)
+
+#### 🧩 Module-wise Features:
+
+**👤 Customer Module**
+- Register/login with OTP verification and profile & delivery address management
+- Browse cooks and meals, keyword search and filters (price, category, rating)
+- Cart management, checkout with distance-based delivery charges
+- Pay via **Cash on Delivery** or **Online Payment** (payment proof upload)
+- Real-time order tracking with auto-expiry of unaccepted orders
+- Ratings, reviews, sentiment summaries per cook, and complaint submission
+- Chatbot assistance and chat with cooks
+
+**👨‍🍳 Cook (Home Chef) Module**
+- Sign-up with profile setup and document verification (CNIC, kitchen photos) plus subscription activation
+- Full menu management (add, edit, delete) with availability control (Available / Out of Stock)
+- Pause/resume kitchen to control when orders are accepted
+- Order handling: accept/reject orders, update status (Preparing, Out for Delivery), view customer delivery details
+- Payment proof verification for received orders
+- Business insights & analytics (earnings, order counts, weekly earnings, top-selling meals)
+- Feedback & ABSA summaries, complaints view, chat with customers
+
+**🛡️ Admin Module**
+- Secure admin login with email/password and OTP via email
+- Manage customers and cooks: verify documents, approve/reject, suspend and reactivate accounts
+- Complaint management and moderation (warnings, suspensions)
+- Review trend tracking (positive/negative/neutral) to identify low-rated cooks
+- Set delivery charges per KM and manage subscription plans
+- Platform oversight dashboard
+
+#### ☁️ External APIs & Services:
+`OpenRouteService` (distance calculation) • `OpenStreetMap` (maps) • `Cloudinary` (image storage) • `Abstract API` (email reputation check)
+
+#### 🛠️ Tech Stack:
+`React` • `Node.js` • `Express.js` • `MongoDB Atlas` • `Mongoose` • `JWT` • `Tailwind CSS` • `RESTful APIs` • `PWA`
+
+---
 
 ### 🌍 [Travel Companion](https://github.com/ghulammuttaqashah/Travel-Companion)
 
@@ -95,32 +146,6 @@ A full-stack application that serves as your personal travel assistant with real
 
 #### 🛠️ Tech Stack:
 `React` • `Node.js` • `Express.js` • `MongoDB` • `JWT` • `Tailwind CSS` • `RESTful APIs`
-
----
-
-### 🎬 [MovieMate](https://github.com/ghulammuttaqashah/moviemate)
-
-<p align="center">
-  <a href="https://moviemate-rho.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Live_Demo-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
-  </a>
-  <a href="https://github.com/ghulammuttaqashah/moviemate" target="_blank">
-    <img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repository" />
-  </a>
-</p>
-
-**Your personal movie hub - discover, share, and vote for movies you love!**
-
-An interactive full-stack web app that lets users search movies from TMDB, build watchlists, participate in community voting, and engage in discussions.
-
-#### ✨ Key Features:
-- 🎥 **TMDB Integration**: Search and discover movies instantly from The Movie Database
-- 🔐 **Dual Authentication**: Email/Password & Google OAuth login options
-- 👍 **Community Voting & Chat**: Upvote movies and manage comments
-- 📱 **Progressive Web App (PWA)**: Install and use natively on devices
-
-#### 🛠️ Tech Stack:
-`React` • `Node.js` • `MongoDB` • `Google OAuth` • `TMDB API` • `Tailwind CSS`
 
 ---
 
