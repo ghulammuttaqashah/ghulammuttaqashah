@@ -116,6 +116,26 @@ Students and working professionals living away from home struggle to find reliab
 
 ---
 
+### 🧩 BrieflyAI — AI Chrome Extension
+
+**Read less. Understand more.**
+
+A Chrome Manifest V3 extension that extracts the readable content of the article you are viewing, sends it through a secure local proxy to Groq, and presents an organized AI summary in a responsive side panel — with article-aware chat, saved summaries, model selection and synchronized light/dark themes.
+
+#### ✨ Key Features:
+- 📰 **Smart Article Extraction**: Pulls the readable part of a page with headings, paragraphs, lists, tables and code blocks, plus word count and reading time — on demand only, no browsing-history collection
+- 🎛️ **Six Summary Modes**: Quick Summary, Detailed Summary, Key Takeaways, Beginner Mode, Technical Mode and Step-by-Step Guide
+- 💬 **Ask This Article**: Chat with the article and ask follow-up questions with conversational context, plus one-line summaries on request
+- 💾 **Saved Summaries**: Search, copy, export to Markdown and delete summaries stored locally in Chrome
+- 🤖 **Model Selection**: Choose any Groq model available to your account, loaded dynamically from the proxy (default `openai/gpt-oss-120b`)
+- 🎨 **Polished UI**: Dark, light and system themes, responsive popup and side panel, loading skeletons, typing indicators, toast feedback and keyboard-accessible controls
+- 🔒 **Secure by Design**: The Groq API key stays on a local Express proxy — never in the extension code or sent directly from the browser. The proxy also validates requests, retries rate limits and returns clear errors
+
+#### 🛠️ Tech Stack:
+`JavaScript` • `Chrome Extension (Manifest V3)` • `Side Panel API` • `Node.js` • `Express.js` • `Groq API` • `Chrome Storage`
+
+---
+
 ### 🌍 [Travel Companion](https://github.com/ghulammuttaqashah/Travel-Companion)
 
 <p align="center">
