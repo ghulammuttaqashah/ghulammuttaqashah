@@ -75,8 +75,6 @@ I'm a dedicated **Software Engineer** specializing in building full-stack web ap
 
 **A centralized Progressive Web App connecting customers with verified home chefs for authentic home-cooked meals.**
 
-> 🎓 **Final Year Project (FYP Code: 22F-17)** — Bachelor of Science in Computer Science, Department of Computer Science, **Sukkur IBA University** (Batch F-2022, submitted May 2026). Built by a team of three under the supervision of Prof. Dr. Ghulam Mujtaba Shaikh and co-supervision of Dr. Muhammad Ismail Mangrio.
-
 Students and working professionals living away from home struggle to find reliable home-cooked food, while talented home chefs lack digital visibility. Homely Meals bridges this gap with a secure, role-based platform for **Customers**, **Cooks (Home Chefs)** and **Admins** that manages the whole lifecycle — verification, meal discovery, ordering, payment, tracking, feedback and complaints.
 
 #### ✨ Key Highlights:
