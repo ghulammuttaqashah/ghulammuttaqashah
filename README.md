@@ -78,8 +78,8 @@ I'm a dedicated **Software Engineer** specializing in building full-stack web ap
 Students and working professionals living away from home struggle to find reliable home-cooked food, while talented home chefs lack digital visibility. Homely Meals bridges this gap with a secure, role-based platform for **Customers**, **Cooks (Home Chefs)** and **Admins** that manages the whole lifecycle — verification, meal discovery, ordering, payment, tracking, feedback and complaints.
 
 #### ✨ Key Highlights:
-- 🤖 **Aspect-Based Sentiment Analysis (ABSA)**: Analyzes customer reviews by aspect (e.g. taste, portion size, delivery) and shows positive/negative insights per cook, with the option to explore each aspect in detail
-- 💬 **AI Chatbot**: Built-in assistant that guides users with common questions and acts as a help section
+- 🤖 **Aspect-Based Sentiment Analysis (ABSA)**: Powered by the Groq API. Analyzes customer reviews by aspect (e.g. taste, portion size, delivery) and shows positive/negative insights per cook, with the option to explore each aspect in detail
+- 💬 **AI Chatbot**: Powered by the Groq API. Built-in assistant that guides users with common questions and acts as a help section
 - 🎯 **Smart Meal Recommender**: Suggests meals based on a customer's past orders and preferences
 - 📱 **Progressive Web App (PWA)**: Installable and responsive across desktop, tablet and mobile
 - 🔐 **Secure Access**: OTP-based registration, email verification, JWT authentication, bcrypt password hashing and role-based access control (RBAC)
@@ -113,7 +113,7 @@ Students and working professionals living away from home struggle to find reliab
 - Platform oversight dashboard
 
 #### ☁️ External APIs & Services:
-`OpenRouteService` (distance calculation) • `OpenStreetMap` (maps) • `Cloudinary` (image storage) • `Abstract API` (email reputation check)
+`Groq API` (ABSA & chatbot) • `OpenRouteService` (distance calculation) • `OpenStreetMap` (maps) • `Cloudinary` (image storage) • `Abstract API` (email reputation check)
 
 #### 🛠️ Tech Stack:
 `React` • `Node.js` • `Express.js` • `MongoDB Atlas` • `Mongoose` • `JWT` • `Tailwind CSS` • `RESTful APIs` • `PWA`
@@ -185,8 +185,8 @@ A full-stack application that serves as your personal travel assistant with real
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ghulammuttaqashah&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0d1117" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghulammuttaqashah&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" alt="Top Languages" height="180" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ghulammuttaqashah&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ghulammuttaqashah&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" alt="Top Languages" height="180" />
 </div>
 
 <br />
